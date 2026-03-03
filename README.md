@@ -1,28 +1,28 @@
-# 📊 Blinkit Sales Analysis Dashboard
+# Blinkit Sales Analysis Dashboard
 
-## 🟢 Project Overview
+## Project Overview
 
 This project presents an interactive **Power BI dashboard** analyzing sales performance of *Blinkit – India’s Last Minute App*.
 
 The dashboard provides insights into:
 
-- 📈 Sales performance
-- 🏪 Outlet performance
-- 🥫 Product category analysis
-- ⭐ Customer rating trends
-- 💰 Revenue distribution patterns
+-  Sales performance
+-  Outlet performance
+-  Product category analysis
+-  Customer rating trends
+-  Revenue distribution patterns
 
 The goal of this project is to derive **business insights** that help in decision-making, revenue optimization, and operational improvement.
 
 ---
 
-## 📂 Project File
+## Project File
 
 - `Blinkit.pbix` → Power BI dashboard file
 
 ---
 
-## 📊 Key Business KPIs
+## Key Business KPIs
 
 The dashboard includes the following major KPIs:
 
@@ -38,7 +38,7 @@ The dashboard includes the following major KPIs:
 
 ---
 
-## 📌 Dashboard Features
+## Dashboard Features
 
 ✔ Interactive slicers  
 ✔ Dynamic filtering  
@@ -49,7 +49,7 @@ The dashboard includes the following major KPIs:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Microsoft Power BI**
 - Data Modeling
@@ -58,7 +58,7 @@ The dashboard includes the following major KPIs:
 
 ---
 
-## 📈 Business Insights Generated
+## Business Insights Generated
 
 - Tier 3 outlets generated strong sales performance.
 - Regular fat products contributed more revenue than low-fat.
@@ -67,7 +67,7 @@ The dashboard includes the following major KPIs:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `Blinkit.pbix` file.
 2. Open it using **Power BI Desktop**.
@@ -76,7 +76,7 @@ The dashboard includes the following major KPIs:
 
 ---
 
-## 📌 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -87,7 +87,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📬 Author
+## Author
 
 **Tharun Kumar S**  
 AI & DS Engineering Student  
